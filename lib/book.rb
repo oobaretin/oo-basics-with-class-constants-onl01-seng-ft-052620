@@ -18,4 +18,3 @@ class Book
     GENRES << genre
   end
 end
-© 2020 GitHub, Inc.
